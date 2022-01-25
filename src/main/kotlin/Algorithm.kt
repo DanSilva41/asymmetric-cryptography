@@ -1,0 +1,3 @@
+enum class Algorithm {
+    RSA
+}
